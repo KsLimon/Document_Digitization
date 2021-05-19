@@ -10,5 +10,7 @@ Team Members:
 3. Md. Sharukh Fardin - 1821463042
 4. Tanvir Al Mahmud - 181356042
 
-. . .this readme file will be updated in future.
 
+WEB - Md. Kamrus Samad - 1813059642, Md. Sharukh Fardin - 1821463042
+
+Android - Sajib Hossain - 1821245642, Tanvir Al Mahmud - 181356042
